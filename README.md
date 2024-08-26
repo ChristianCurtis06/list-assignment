@@ -1,0 +1,1 @@
+This repository includes the assignment: Python Lists in Module 2: Lesson 3 of the Software Engineering Core.
