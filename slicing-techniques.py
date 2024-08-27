@@ -7,4 +7,4 @@ print(f"The temperatures for the second week are: {second_week}")
 # Task 2: Extract all the temperatures above 100
 extreme_heat = temperatures[-6:]
 
-print(f"The temperatures above 100 are: {extreme_heat}")
+print(f"The temperatures for the month above 100 are: {extreme_heat}")
